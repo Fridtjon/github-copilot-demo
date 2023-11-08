@@ -1,13 +1,15 @@
 package user;
 
+/**
+ * user.User
+ *
+ * Class to represent a user
+ */
 public class User {
 
     private String username;
     private String password;
     private String email;
-
-    // copilot: add getters and setters for all fields
-    // copilot: make sure to add toString() method
 
     public String getUsername() {
         return username;

@@ -2,7 +2,7 @@ package user;
 
 /**
  * user.UserBuilder
- * Class to build a user object using the builder pattern
+ * Class to build a user object using the builder pattern in Java.
  */
 public class UserBuilder {
 
